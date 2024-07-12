@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="copyright">
                 <p className="copyright-blog">© 2024 Uday Suggula, Harshit, Nitin, Uday Kiran. All Rights Reserved</p>
                 <p className="github-link">
-                    <a href="https://github.com/Y-Nitin/Blogging_Platform" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Y-Nitin/Blog_Stream" target="_blank" rel="noopener noreferrer">
                         GitHub Repository
                     </a>
                 </p>
